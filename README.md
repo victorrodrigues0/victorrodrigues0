@@ -156,13 +156,13 @@
 <div style="display:flex; width:100%;">
   <img 
     alt="GitHub Stats" 
-    width="50%" 
+    width="60%" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=victorrodrigues0&show_icons=true&theme=dark&locale=pt-br" 
   />
 <img 
       alt="GitHub Stats" 
-      width="30%" 
+      width="39%" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrodrigues0&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
