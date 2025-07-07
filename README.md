@@ -153,7 +153,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=victorrodrigues0&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
@@ -162,16 +162,13 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrodrigues0&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
-
-<br>
 
 ---
 
-<br> 
-
 ### ✉️ Contato
+
+<br><br>
 
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white">](https://portfolio-alpha-roan-58.vercel.app)
 [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">](mailto:vs533036@gmail.com)
