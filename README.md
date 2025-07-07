@@ -48,9 +48,7 @@
 ## ✉️ Contato / Contact ✉️
 
 <div>
-<h2 style="font-size: 1.8rem; font-weight: bold; display: flex; align-items: center; gap: 8px;">
-  💼 Portfólio
-</h2>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
 <a href="mailto:vs533036@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/victor-silva-antunes-rodrigues-1b04a1270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
