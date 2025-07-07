@@ -2,7 +2,6 @@
 
 **`Desenvolvedor FullStack ☕`**
 
-
 - Sou brasileiro 
 - 18 anos  
 - Atualmente estou estudando no [Instituto Federal](https://ifrs.edu.br) -  IFSul
@@ -11,6 +10,7 @@
 ---
 
 ### 💻 Tecnologias
+
 
 <img 
     align="left" 
@@ -141,34 +141,29 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
 />
 
-<br>
+<br><br>
 
  ---
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display:flex; width:100%;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    width="50%" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=victorrodrigues0&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=victorrodrigues0&show_icons=true&theme=dark&locale=pt-br" 
   />
-
 <img 
-      align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      width="30%" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrodrigues0&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</div>
 
 ---
 
 ### ✉️ Contato
-
-<br><br>
 
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white">](https://portfolio-alpha-roan-58.vercel.app)
 [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">](mailto:vs533036@gmail.com)
