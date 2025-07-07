@@ -42,7 +42,7 @@ Não trabalho como desenvolvedor, mas quero. Estou estudando para ser um desenvo
 <div style="display: inline_block"><br>
   
 <img alt="Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img alt="AWS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img alt="AWS" width="50" src="https://cdn.jsdelivr.net/gh/valohai/aws-icons@master/PNG/Light/AWS%20Cloud.png" />
 <img alt="Google Cloud" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
           
 </div>
