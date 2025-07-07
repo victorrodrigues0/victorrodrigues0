@@ -1,57 +1,175 @@
-### 👋👑 Olá! Eu sou Victor Rodrigues / Hi! I'm Victor Rodrigues 👋👑
+# 🎧 Victor Rodrigues
 
-<hr>
-
-- Sou brasileiro  |  I'm Brazilian
-- 18 anos  |  18y
-- Atualmente estou estudando no [Instituto Federal](https://ifrs.edu.br) (IF) / Rio Grande do Sul / Brasil  |  I'm currently studying at [Instituto Federal](https://ifrs.edu.br) (IF) / Rio Grande do Sul / Brazil
-- Estou no meu quarto ano como técnico em informática integrado  |  I'm in my fourth year as an integrated IT technician
-- Desenvolvedor Back-End | Back-End Developer
-<hr>
-
-## ⬇️ Status ⬇️
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRodrigues0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRodrigues0&layout=compact&theme=tokyonight)
+**`Desenvolvedor FullStack ☕`**
 
 
-<hr>
+- Sou brasileiro 
+- 18 anos  
+- Atualmente estou estudando no [Instituto Federal](https://ifrs.edu.br) -  IFSul
+- Estou no meu quarto ano como técnico em informática integrado 
 
-## ✔️ Minhas habilidades / My skills ✔️
+---
 
-<div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; align-items: center;">
-  <img alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Node.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Prisma" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-  <img alt="NestJS" width="50" src="https://nestjs.com/img/logo-small.svg" />
-  <img alt="Jest" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img alt="Swagger" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
-  <img alt="MySQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="PostgreSQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</div>
+### 💻 Tecnologias
 
-<hr>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Prisma ORM" 
+    title="Prisma ORM"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Nestjs" 
+    title="Nestjs"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jest" 
+    title="Jest"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Swagger" 
+    title="Swagger"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
+/>
+<br>
 
-## 📖 Estudando / Studying 📖
+ ---
 
-<div style="display: inline_block"><br>
-  
-<img alt="Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img alt="AWS" width="50" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
-<img alt="Google Cloud" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-          
-</div>
+### 📊 Estatísticas
 
-<hr>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
 
-## ✉️ Contato / Contact ✉️v
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrodrigues0&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-<div>
-<a href="https://portfolio-alpha-roan-58.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
-<a href="mailto:vs533036@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/victor-silva-antunes-rodrigues-1b04a1270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
+<br>
 
-</div>
+---
 
+### ✉️ Contato
+
+[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white">](https://portfolio-alpha-roan-58.vercel.app)
+[<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">](mailto:vs533036@gmail.com)
+[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/victor-silva-antunes-rodrigues-1b04a1270/)
