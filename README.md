@@ -165,6 +165,7 @@
       width="30%" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrodrigues0&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </div>
 
 ---
