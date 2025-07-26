@@ -175,6 +175,8 @@
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white">](https://portfolio-alpha-roan-58.vercel.app)
 [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">](mailto:vs533036@gmail.com)
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/victor-silva-antunes-rodrigues)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VictorR_dev)
+
 
 ---
 
