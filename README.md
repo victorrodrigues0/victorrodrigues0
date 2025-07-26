@@ -176,8 +176,7 @@
 [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">](mailto:vs533036@gmail.com)
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/victor-silva-antunes-rodrigues-1b04a1270/)
 
-<br>
-<br>
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorrodrigues0/victorrodrigues0/output/pacman-contribution-graph-dark.svg">
