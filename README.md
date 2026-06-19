@@ -94,7 +94,7 @@
 <img 
     align="left" 
     alt="Java" 
-    title="java"
+    title="Java"
     width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
@@ -102,7 +102,7 @@
 <img 
     align="left" 
     alt="Spring Boot" 
-    title="spring"
+    title="Spring Boot"
     width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
