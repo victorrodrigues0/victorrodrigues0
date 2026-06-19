@@ -3,9 +3,8 @@
 **`Desenvolvedor FullStack ☕`**
 
 - Sou brasileiro 
-- 18 anos  
-- Atualmente estou estudando no [Instituto Federal](https://ifrs.edu.br) -  IFSul
-- Estou no meu quarto ano como técnico em informática integrado 
+- 19 anos  
+- Formado pelo [Instituto Federal](https://ifrs.edu.br) -  IFSul como técnico em Infomática para a Internet
 
 ---
 
