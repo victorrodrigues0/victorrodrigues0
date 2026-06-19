@@ -4,7 +4,7 @@
 
 - Sou brasileiro 
 - 19 anos  
-- Téc. em Informática para a Internet pelo [Instituto Federal](https://ifrs.edu.br) -  IFSul
+- Técnico em Informática para a Internet pelo [Instituto Federal Sul-rio-grandense](https://ifrs.edu.br) - IFSul
 
 ---
 
