@@ -165,12 +165,12 @@
     alt="GitHub Stats" 
     width="60%" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=victorrodrigues0&show_icons=true&theme=merko&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=victorrodrigues0&show_icons=true&theme=gruvbox&locale=pt-br" 
   />
 <img 
       alt="GitHub Stats" 
       width="39%" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrodrigues0&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrodrigues0&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </div>
