@@ -161,7 +161,7 @@
 ### 📊 Estatísticas
 
 <div style="display:flex; width:100%;">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=victorrodrigues0&theme=gruvbox" width="60%" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=victorrodrigues0&theme=gruvbox&show_icons=true" width="60%" />
 <img 
       alt="GitHub Stats" 
       width="39%" 
