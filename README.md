@@ -4,7 +4,7 @@
 
 - Sou brasileiro 
 - 19 anos  
-- Formado pelo [Instituto Federal](https://ifrs.edu.br) -  IFSul como técnico em Infomática para a Internet
+- Téc. em Informática para a Internet pelo [Instituto Federal](https://ifrs.edu.br) -  IFSul
 
 ---
 
@@ -161,6 +161,7 @@
 ### 📊 Estatísticas
 
 <div style="display:flex; width:100%;">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victorrodrigues0&theme=gruvbox" />
 <img 
       alt="GitHub Stats" 
       width="39%" 
