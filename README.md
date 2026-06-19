@@ -97,7 +97,7 @@
     title="java"
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
 />
 <img 
     align="left" 
@@ -105,7 +105,7 @@
     title="spring"
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
@@ -165,12 +165,12 @@
     alt="GitHub Stats" 
     width="60%" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=victorrodrigues0&show_icons=true&theme=dark&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=victorrodrigues0&show_icons=true&theme=merko&locale=pt-br" 
   />
 <img 
       alt="GitHub Stats" 
       width="39%" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrodrigues0&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrodrigues0&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </div>
