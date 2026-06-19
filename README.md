@@ -93,8 +93,16 @@
 />
 <img 
     align="left" 
-    alt="Jest" 
-    title="Jest"
+    alt="Java" 
+    title="java"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring Boot" 
+    title="spring"
     width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
