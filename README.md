@@ -1,10 +1,11 @@
 # 🎧 Victor Rodrigues
 
-**`Desenvolvedor FullStack ☕`**
+**`Desenvolvedor Back-end ☕`**
 
 - Sou brasileiro 
 - 19 anos  
 - Técnico em Informática para a Internet pelo [Instituto Federal Sul-rio-grandense](https://ifrs.edu.br) - IFSul
+- Graduando em Engenharia de Software pela FIAP
 
 ---
 
@@ -13,35 +14,11 @@
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 
@@ -53,22 +30,6 @@
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Node.js" 
     title="Node.js"
     width="42px" 
@@ -77,19 +38,19 @@
 />
 <img 
     align="left" 
-    alt="Prisma ORM" 
-    title="Prisma ORM"
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Nestjs" 
     title="Nestjs"
     width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Prisma ORM" 
+    title="Prisma ORM"
+    width="42px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
 />
 <img 
     align="left" 
