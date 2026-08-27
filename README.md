@@ -108,30 +108,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
 />
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
  ---
-
-### 📊 Estatísticas
-
-<div style="display:flex; width:100%;">
-   <img height="200" src="https://github-readme-stats.vercel.app/api?username=victorrodrigues0&theme=gruvbox&show_icons=true" width="60%" />   
-<img 
-      alt="GitHub Stats" 
-      width="39%" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrodrigues0&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</div>
-
----
 
 ### ✉️ Contato
 
